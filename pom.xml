@@ -18,10 +18,9 @@
     <dependency>
     <groupId>jakarta.servlet</groupId>
     <artifactId>jakarta.servlet-api</artifactId>
-    <version>5.3.1</version>
-    <scope>provided</scope>
+    <version>5.3.5</version>
+    <scope>compile</scope>
    </dependency>
-
   </dependencies>
   <build>
     <finalName>MavenWeb1</finalName>
